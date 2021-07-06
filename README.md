@@ -1,0 +1,2 @@
+# NumericalAnalysisSimpsonDoubleIntegrations-
+Simpson’s rules are named after Thomas Simpson (1710-1760) and are used to numerically evaluate definite integrals. Simpson’s rule uses quadratic formula approach. This rule approximates two points by considering quadratic polynomial from three points. There are three Simpson’s rules found in literature. Simpsons 1/3 rule (or generally Simpson’s rule), Simpson’s 3/8 rule and composite Simpson’s rule. We will discuss Simpsons 1/3 rule for double integrations.
